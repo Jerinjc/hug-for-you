@@ -13,7 +13,6 @@ During this project, I learned and implemented the following concepts:
 * Added a background GIF/image and used CSS properties such as `background-size: cover` and `background-position: center` to improve its appearance.
 * Removed the browser's default page margin by setting `margin: 0` on the `body` element, allowing the content and background to utilize the full viewport.
 * Applied text styling, including custom colors and text shadows, to improve readability against the background.
-* Used a `<span>` element to style and highlight specific parts of the text.
 * Customized a button using CSS properties such as background color, padding, and font inheritance.
 * Selected a color palette from Coolors and applied matching colors to the text and button to maintain a consistent design theme.
 * Practiced working with containers, background images, typography, spacing, and basic page layout techniques.
