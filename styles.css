@@ -1,0 +1,27 @@
+body{
+  margin: 0px;
+  font-family: "Bitcount Single", system-ui;
+  font-optical-sizing: auto;
+  text-align: center;
+}
+
+.hero{
+  background-image: url("https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dThleTlpMHZpMW1xNjRhNmtjaGo1MG5qb2t3aWRsbTZzajM4OGlkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26gssIytJvy1b1THO/200.webp");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+.text{
+  padding: 20px 25px;
+  color: #968a73;
+  text-shadow: 3px 1px 5px black;
+}
+
+.ul{
+  font-family: inherit;
+  background-color: #9aa09a;
+  padding: 1px 10px;
+  vertical-align: middle;
+  font-size: 20px;
+}
