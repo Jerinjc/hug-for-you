@@ -4,8 +4,6 @@ As part of my HTML and CSS learning journey, I independently developed this land
 
 Before creating this project, I completed a tutorial-based Space Exploration landing page, which introduced me to concepts such as custom fonts, background images, text styling, and page layouts. After understanding these concepts, I applied them independently to build this project without following a tutorial.
 
-Tutorial Project (Space Exploration Landing Page):
-https://astounding-palmier-8ae2a6.netlify.app/
 
 During this project, I learned and implemented the following concepts:
 
@@ -18,3 +16,11 @@ During this project, I learned and implemented the following concepts:
 * Practiced working with containers, background images, typography, spacing, and basic page layout techniques.
 
 Through this project, I gained hands-on experience with HTML structure, CSS styling, Google Fonts, color theory, backgrounds, and creating visually appealing landing pages.
+
+### Live Demos
+
+**Space Exploration Landing Page (Tutorial Project):**
+https://astounding-palmier-8ae2a6.netlify.app/
+
+**Sea Otter Hug Landing Page (Independent Project):**
+https://shiny-sprite-108750.netlify.app/
